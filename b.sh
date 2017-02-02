@@ -1,5 +1,5 @@
 #!/bin/bash
-b=12
+b=2
 if [ $b -gt 10 ]
 then
 echo "b is grater"
