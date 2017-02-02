@@ -128,12 +128,15 @@
 -'  2  2  ~/b.sh
 -'  1  0  ~/b.sh
 -'  8  5  ~/b.sh
+-'  2  2  ~/b.sh
+-'  1  0  ~/b.sh
+-'  8  5  ~/b.sh
 
 # History of marks within files (newest to oldest):
 
 > ~/a.sh
 	"	2	2
-	^	8	6
+	^	2	3
 	.	2	2
 	+	2	3
 	+	5	18
