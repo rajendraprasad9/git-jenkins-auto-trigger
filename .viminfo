@@ -23,21 +23,25 @@
 # Registers:
 
 # File marks:
-'0  2  1  ~/b.sh
-'1  3  5  ~/b.sh
-'2  3  5  ~/a.sh
-'3  7  6  ~/b.sh
-'4  8  1  ~/a.sh
-'5  1  0  /var/lib/jenkins/secrets/initialAdminPassword
+'0  8  5  ~/b.sh
+'1  8  5  ~/a.sh
+'2  1  0  ~/a.s
+'3  2  1  ~/b.sh
+'4  3  5  ~/b.sh
+'5  3  5  ~/a.sh
+'6  7  6  ~/b.sh
+'7  1  0  /var/lib/jenkins/secrets/initialAdminPassword
 
 # Jumplist (newest first):
--'  2  1  ~/b.sh
+-'  8  5  ~/b.sh
 -'  1  0  ~/b.sh
+-'  8  5  ~/a.sh
+-'  1  0  ~/a.sh
+-'  1  0  ~/a.s
+-'  2  1  ~/b.sh
 -'  3  5  ~/b.sh
 -'  3  5  ~/a.sh
--'  1  0  ~/a.sh
 -'  7  6  ~/b.sh
--'  8  1  ~/a.sh
 -'  1  0  /var/lib/jenkins/secrets/initialAdminPassword
 -'  1  0  /var/lib/jenkins/secrets/initialAdminPassword
 -'  1  0  /var/lib/jenkins/secrets/initialAdminPassword
@@ -46,31 +50,71 @@
 -'  1  0  /var/lib/jenkins/secrets/initialAdminPassword
 -'  1  0  /var/lib/jenkins/secrets/initialAdminPassword
 -'  1  0  /var/lib/jenkins/secrets/initialAdminPassword
--'  3  5  ~/a.sh
+-'  1  0  /var/lib/jenkins/secrets/initialAdminPassword
+-'  1  0  /var/lib/jenkins/secrets/initialAdminPassword
+-'  1  0  /var/lib/jenkins/secrets/initialAdminPassword
+-'  1  0  /var/lib/jenkins/secrets/initialAdminPassword
+-'  1  0  /var/lib/jenkins/secrets/initialAdminPassword
+-'  1  0  /var/lib/jenkins/secrets/initialAdminPassword
+-'  1  0  /var/lib/jenkins/secrets/initialAdminPassword
+-'  1  0  /var/lib/jenkins/secrets/initialAdminPassword
+-'  1  0  /var/lib/jenkins/secrets/initialAdminPassword
+-'  1  0  /var/lib/jenkins/secrets/initialAdminPassword
+-'  1  0  /var/lib/jenkins/secrets/initialAdminPassword
+-'  1  0  /var/lib/jenkins/secrets/initialAdminPassword
+-'  1  0  /var/lib/jenkins/secrets/initialAdminPassword
+-'  1  0  /var/lib/jenkins/secrets/initialAdminPassword
+-'  1  0  /var/lib/jenkins/secrets/initialAdminPassword
+-'  1  0  /var/lib/jenkins/secrets/initialAdminPassword
+-'  1  0  /var/lib/jenkins/secrets/initialAdminPassword
+-'  1  0  /var/lib/jenkins/secrets/initialAdminPassword
+-'  1  0  /var/lib/jenkins/secrets/initialAdminPassword
+-'  1  0  /var/lib/jenkins/secrets/initialAdminPassword
+-'  1  0  /var/lib/jenkins/secrets/initialAdminPassword
+-'  1  0  /var/lib/jenkins/secrets/initialAdminPassword
+-'  1  0  /var/lib/jenkins/secrets/initialAdminPassword
+-'  1  0  /var/lib/jenkins/secrets/initialAdminPassword
+-'  1  0  /var/lib/jenkins/secrets/initialAdminPassword
+-'  1  0  /var/lib/jenkins/secrets/initialAdminPassword
+-'  1  0  /var/lib/jenkins/secrets/initialAdminPassword
+-'  1  0  /var/lib/jenkins/secrets/initialAdminPassword
+-'  1  0  /var/lib/jenkins/secrets/initialAdminPassword
+-'  1  0  /var/lib/jenkins/secrets/initialAdminPassword
+-'  1  0  /var/lib/jenkins/secrets/initialAdminPassword
+-'  1  0  /var/lib/jenkins/secrets/initialAdminPassword
+-'  1  0  /var/lib/jenkins/secrets/initialAdminPassword
+-'  1  0  /var/lib/jenkins/secrets/initialAdminPassword
+-'  1  0  /var/lib/jenkins/secrets/initialAdminPassword
+-'  1  0  /var/lib/jenkins/secrets/initialAdminPassword
+-'  1  0  /var/lib/jenkins/secrets/initialAdminPassword
+-'  1  0  /var/lib/jenkins/secrets/initialAdminPassword
+-'  1  0  /var/lib/jenkins/secrets/initialAdminPassword
+-'  1  0  /var/lib/jenkins/secrets/initialAdminPassword
+-'  1  0  /var/lib/jenkins/secrets/initialAdminPassword
+-'  1  0  /var/lib/jenkins/secrets/initialAdminPassword
+-'  1  0  /var/lib/jenkins/secrets/initialAdminPassword
+-'  1  0  /var/lib/jenkins/secrets/initialAdminPassword
+-'  1  0  /var/lib/jenkins/secrets/initialAdminPassword
+-'  1  0  /var/lib/jenkins/secrets/initialAdminPassword
+-'  1  0  /var/lib/jenkins/secrets/initialAdminPassword
+-'  1  0  /var/lib/jenkins/secrets/initialAdminPassword
+-'  1  0  /var/lib/jenkins/secrets/initialAdminPassword
+-'  1  0  /var/lib/jenkins/secrets/initialAdminPassword
+-'  1  0  /var/lib/jenkins/secrets/initialAdminPassword
+-'  1  0  /var/lib/jenkins/secrets/initialAdminPassword
+-'  1  0  /var/lib/jenkins/secrets/initialAdminPassword
+-'  1  0  /var/lib/jenkins/secrets/initialAdminPassword
+-'  1  0  /var/lib/jenkins/secrets/initialAdminPassword
+-'  1  0  /var/lib/jenkins/secrets/initialAdminPassword
+-'  8  5  ~/a.sh
 -'  1  0  ~/a.sh
--'  8  1  ~/a.sh
--'  1  0  /var/lib/jenkins/secrets/initialAdminPassword
--'  1  0  /var/lib/jenkins/secrets/initialAdminPassword
--'  1  0  /var/lib/jenkins/secrets/initialAdminPassword
--'  1  0  /var/lib/jenkins/secrets/initialAdminPassword
--'  1  0  /var/lib/jenkins/secrets/initialAdminPassword
--'  1  0  /var/lib/jenkins/secrets/initialAdminPassword
--'  1  0  /var/lib/jenkins/secrets/initialAdminPassword
--'  1  0  /var/lib/jenkins/secrets/initialAdminPassword
+-'  1  0  ~/a.s
 -'  3  5  ~/a.sh
--'  1  0  ~/a.sh
--'  8  1  ~/a.sh
 -'  1  0  /var/lib/jenkins/secrets/initialAdminPassword
 -'  1  0  /var/lib/jenkins/secrets/initialAdminPassword
 -'  1  0  /var/lib/jenkins/secrets/initialAdminPassword
 -'  1  0  /var/lib/jenkins/secrets/initialAdminPassword
 -'  1  0  /var/lib/jenkins/secrets/initialAdminPassword
--'  1  0  /var/lib/jenkins/secrets/initialAdminPassword
--'  1  0  /var/lib/jenkins/secrets/initialAdminPassword
--'  1  0  /var/lib/jenkins/secrets/initialAdminPassword
--'  3  5  ~/a.sh
--'  1  0  ~/a.sh
--'  8  1  ~/a.sh
 -'  1  0  /var/lib/jenkins/secrets/initialAdminPassword
 -'  1  0  /var/lib/jenkins/secrets/initialAdminPassword
 -'  1  0  /var/lib/jenkins/secrets/initialAdminPassword
@@ -83,25 +127,30 @@
 # History of marks within files (newest to oldest):
 
 > ~/b.sh
-	"	2	1
-	^	2	2
-	.	2	2
+	"	8	5
+	^	8	6
+	.	8	5
 	+	2	0
 	+	3	5
 	+	5	6
 	+	7	6
 	+	3	5
 	+	2	2
+	+	8	5
 
 > ~/a.sh
-	"	3	5
-	^	3	6
-	.	3	5
+	"	8	5
+	^	8	6
+	.	8	5
 	+	2	3
 	+	5	18
 	+	7	19
 	+	8	1
 	+	3	5
+	+	8	5
+
+> ~/a.s
+	"	1	0
 
 > /var/lib/jenkins/secrets/initialAdminPassword
 	"	1	0
